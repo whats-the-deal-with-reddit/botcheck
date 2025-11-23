@@ -9,8 +9,8 @@ from reddit_utils import reddit
 # -----------------------------
 # CONFIG
 # -----------------------------
-MAX_COMMENTS = 200
-MAX_POSTS = 50
+MAX_COMMENTS = 1000
+MAX_POSTS = 1000
 
 
 # -----------------------------
